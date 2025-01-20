@@ -1,2 +1,2 @@
-# CPS276
+# Git Testing
 Code repository for CPS 276
